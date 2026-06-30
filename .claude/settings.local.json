@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npm install)",
+      "PowerShell(npm run test)",
+      "PowerShell(npm run build)",
+      "PowerShell(npm run test 2>&1)",
+      "PowerShell(npm run preview -- --port 4317)",
+      "PowerShell(Start-Sleep -Seconds 2; try { $r = Invoke-WebRequest -Uri \"http://localhost:4317/\" -UseBasicParsing -TimeoutSec 10; \"STATUS $\\($r.StatusCode\\)\"; if \\($r.Content -match 'id=\"root\"'\\) { \"root div present\" } } catch { \"ERR: $_\" })"
+    ]
+  }
+}

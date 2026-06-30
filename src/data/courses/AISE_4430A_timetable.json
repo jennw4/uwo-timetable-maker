@@ -1,0 +1,74 @@
+{
+  "code": "AISE 4430A",
+  "name": "INTRO TO NET, SEC & IOT SYS",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "13295",
+          "instructor": "F. Fang",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "FNB-3210"
+            },
+            {
+              "day": "Th",
+              "start": "17:30",
+              "end": "18:30",
+              "location": "FNB-1240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "002",
+          "classNbr": "13296",
+          "instructor": "F. Fang",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "10:30",
+              "end": "13:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        },
+        {
+          "section": "003",
+          "classNbr": "14054",
+          "instructor": "F. Fang",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "14:30",
+              "end": "17:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

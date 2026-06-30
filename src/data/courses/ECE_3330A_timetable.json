@@ -1,0 +1,165 @@
+{
+  "code": "ECE 3330A",
+  "name": "CONTROL SYSTEMS",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9712",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "18:30",
+              "end": "20:30",
+              "location": "SEB-1059"
+            },
+            {
+              "day": "Th",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "SEB-2100"
+            }
+          ]
+        },
+        {
+          "section": "002",
+          "classNbr": "13716",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "11:30",
+              "end": "12:30",
+              "location": "HSB-35"
+            },
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "20:30",
+              "location": "SEB-2100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "003",
+          "classNbr": "9714",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "14:30",
+              "end": "17:30",
+              "location": "ACEB-2415"
+            }
+          ]
+        },
+        {
+          "section": "004",
+          "classNbr": "10341",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "14:30",
+              "end": "17:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "11248",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "12:30",
+              "location": "ACEB-3420"
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "10635",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "12:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "007",
+          "classNbr": "10636",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "18:30",
+              "location": "ACEB-2415"
+            }
+          ]
+        },
+        {
+          "section": "008",
+          "classNbr": "9713",
+          "instructor": "M. Kermani",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "18:30",
+              "location": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

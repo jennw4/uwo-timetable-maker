@@ -1,0 +1,397 @@
+{
+  "code": "ECE 2277A",
+  "name": "DIGITAL LOGIC SYSTEMS",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9719",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "13:30",
+              "end": "14:30",
+              "location": "AHB-1R40"
+            },
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "17:30",
+              "location": "SH-3345"
+            }
+          ]
+        },
+        {
+          "section": "002",
+          "classNbr": "10434",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "13:30",
+              "end": "15:30",
+              "location": "WSC-55"
+            },
+            {
+              "day": "Fr",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "SEB-2200"
+            }
+          ]
+        },
+        {
+          "section": "003",
+          "classNbr": "9998",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "17:30",
+              "end": "18:30",
+              "location": "SEB-2200"
+            },
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "17:30",
+              "location": "SEB-1059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TUT",
+      "sections": [
+        {
+          "section": "004",
+          "classNbr": "10987",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "13:30",
+              "end": "14:30",
+              "location": "SEB-1200"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "9721",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "16:30",
+              "end": "17:30",
+              "location": "SH-3345"
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "9854",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "20:30",
+              "end": "21:30",
+              "location": "SEB-2200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "007",
+          "classNbr": "9924",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "008",
+          "classNbr": "9997",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "009",
+          "classNbr": "10398",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "12:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "010",
+          "classNbr": "10405",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "12:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "011",
+          "classNbr": "10986",
+          "instructor": "R. Rao",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "13:30",
+              "end": "16:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "012",
+          "classNbr": "11165",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "13:30",
+              "end": "16:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "013",
+          "classNbr": "9853",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "14:30",
+              "end": "17:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "014",
+          "classNbr": "9720",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "14:30",
+              "end": "17:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "015",
+          "classNbr": "12382",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "016",
+          "classNbr": "13191",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "18:30",
+              "end": "21:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "017",
+          "classNbr": "13192",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "09:30",
+              "end": "12:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "018",
+          "classNbr": "13193",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "09:30",
+              "end": "12:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "019",
+          "classNbr": "13517",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "09:30",
+              "end": "12:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "020",
+          "classNbr": "13518",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "09:30",
+              "end": "12:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "021",
+          "classNbr": "13519",
+          "instructor": "A. Reyhani-Masoleh",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "12:30",
+              "location": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

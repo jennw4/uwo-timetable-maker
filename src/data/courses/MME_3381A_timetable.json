@@ -1,0 +1,284 @@
+{
+  "code": "MME 3381A",
+  "name": "KINEMATICS & DYNAMICS OF MACH",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9185",
+          "instructor": "O. Tutunea-Fatan",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "12:30",
+              "end": "13:30",
+              "location": "HSB-35"
+            },
+            {
+              "day": "Tu",
+              "start": "16:30",
+              "end": "17:30",
+              "location": "SEB-2200"
+            },
+            {
+              "day": "Th",
+              "start": "08:30",
+              "end": "09:30",
+              "location": "UCC-56"
+            }
+          ]
+        },
+        {
+          "section": "002",
+          "classNbr": "18198",
+          "instructor": "G. Langohr",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "12:30",
+              "end": "13:30",
+              "location": "SEB-1200"
+            },
+            {
+              "day": "Tu",
+              "start": "16:30",
+              "end": "17:30",
+              "location": "SEB-1200"
+            },
+            {
+              "day": "Th",
+              "start": "08:30",
+              "end": "09:30",
+              "location": "HSB-240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TUT",
+      "sections": [
+        {
+          "section": "003",
+          "classNbr": "10428",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "14:30",
+              "end": "16:30",
+              "location": "UCC-146"
+            }
+          ]
+        },
+        {
+          "section": "004",
+          "classNbr": "18199",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "14:30",
+              "end": "16:30",
+              "location": "SSC-2050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "005",
+          "classNbr": "9988",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "18:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "9989",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "14:30",
+              "end": "17:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "007",
+          "classNbr": "9990",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "08:30",
+              "end": "11:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "008",
+          "classNbr": "12389",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "11:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "009",
+          "classNbr": "10984",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "010",
+          "classNbr": "10429",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "011",
+          "classNbr": "18194",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "13:30",
+              "end": "16:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "012",
+          "classNbr": "18195",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "13:30",
+              "end": "16:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "013",
+          "classNbr": "18196",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "11:30",
+              "end": "14:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "014",
+          "classNbr": "18197",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "SEB-3105"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

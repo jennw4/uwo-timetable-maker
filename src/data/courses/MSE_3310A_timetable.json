@@ -1,0 +1,114 @@
+{
+  "code": "MSE 3310A",
+  "name": "ELECTRIC MOTORS AND DRIVES",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "11408",
+          "instructor": "D. Michaelson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "11:30",
+              "end": "12:30",
+              "location": "UCC-41"
+            },
+            {
+              "day": "Tu",
+              "start": "13:30",
+              "end": "14:30",
+              "location": "FNB-1240"
+            },
+            {
+              "day": "Fr",
+              "start": "08:30",
+              "end": "09:30",
+              "location": "SEB-2202"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "002",
+          "classNbr": "12136",
+          "instructor": "D. Michaelson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "ACEB-3435"
+            }
+          ]
+        },
+        {
+          "section": "003",
+          "classNbr": "11409",
+          "instructor": "D. Michaelson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "11:30",
+              "location": "SEB-2093"
+            }
+          ]
+        },
+        {
+          "section": "004",
+          "classNbr": "11410",
+          "instructor": "D. Michaelson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "ACEB-3435"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "14059",
+          "instructor": "D. Michaelson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "11:30",
+              "end": "14:30",
+              "location": "ACEB-3435"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

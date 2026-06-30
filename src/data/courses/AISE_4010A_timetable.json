@@ -1,0 +1,102 @@
+{
+  "code": "AISE 4010A",
+  "name": "DL FOR TIME SERIES DATA",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "13515",
+          "instructor": "S. Nikan",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "10:30",
+              "end": "13:30",
+              "location": "ACEB-1410"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "003",
+          "classNbr": "14013",
+          "instructor": "S. Nikan",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "16:30",
+              "end": "18:30",
+              "location": "ACEB-1400"
+            }
+          ]
+        },
+        {
+          "section": "004",
+          "classNbr": "14014",
+          "instructor": "S. Nikan",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "11:30",
+              "end": "13:30",
+              "location": "ACEB-2415"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "18349",
+          "instructor": "S. Nikan",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "17:30",
+              "end": "19:30",
+              "location": "ACEB-1400"
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "18350",
+          "instructor": "S. Nikan",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "19:30",
+              "end": "21:30",
+              "location": "ACEB-2415"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

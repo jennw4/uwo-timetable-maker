@@ -1,0 +1,41 @@
+{
+  "code": "ADS 3864B",
+  "name": "Data Visualization & Stats",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "570",
+          "classNbr": "9629",
+          "instructor": "L. Murray",
+          "campus": "King's",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            { "day": "Mo", "start": "11:30", "end": "12:30", "location": "KC-LH100" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "571",
+          "classNbr": "9630",
+          "instructor": ".",
+          "campus": "King's",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            { "day": "We", "start": "15:30", "end": "17:30", "location": "KC-LH100" }
+          ]
+        }
+      ]
+    }
+  ]
+}

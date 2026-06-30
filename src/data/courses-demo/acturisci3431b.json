@@ -1,0 +1,26 @@
+{
+  "code": "ACTURSCI 3431B",
+  "name": "Long Term Actuarial Math III",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "2396",
+          "instructor": "S. Li",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            { "day": "Mo", "start": "08:30", "end": "09:30", "location": "WSC-240" },
+            { "day": "We", "start": "08:30", "end": "09:30", "location": "WSC-240" },
+            { "day": "Fr", "start": "08:30", "end": "09:30", "location": "WSC-240" }
+          ]
+        }
+      ]
+    }
+  ]
+}
