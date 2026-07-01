@@ -1,11 +1,9 @@
-# Screenshot → Course JSON — prompt for the scraping AI
+# SCRAPER_PROMPT
 
 Use the prompt below (paste it into an AI together with a Western timetable
-screenshot). The AI returns one JSON object per course, which you save as
+screenshot and copy-paste). The AI returns one JSON object per course, which you save as
 `src/data/courses/<something>.json`. The app auto-loads every `.json` in that
 folder on the next build/refresh.
-
----
 
 ## Prompt
 
@@ -62,25 +60,7 @@ folder on the next build/refresh.
 >   If the instructor cell is blank, `.`, `TBA`, or `Staff`, set it to `""` — the
 >   app treats that as a wildcard that bundles with any instructor.
 > - Ignore the **Requisites and Constraints** column.
-> - Output JSON only.
-
----
-
-## Worked example
-
-Input (excerpt from a real screenshot):
-
-```
-LEC 001  9719  R. Rao    ...  Th 1:30 PM - 2:30 PM  AHB-1R40
-                              F  3:30 PM - 5:30 PM  SH-3345
-TUT 004  10987 R. Rao    ...  Th 1:30 PM - 2:30 PM  SEB-1200
-LAB 007  9924  R. Rao    ...  W  6:30 PM - 9:30 PM  ACEB-2400
-```
-
-Output: see [`src/data/courses/ece2238a.json`](src/data/courses/ece2238a.json) for
-the full transcription of that course.
-
-> Note: in this real sample, R. Rao's LEC 001 and TUT 004 are both Thu 1:30–2:30, so
-> they can't be taken together. With instructor bundling that simply means R. Rao
-> produces no valid LEC+TUT combination — the app reports this rather than guessing.
-> Capture the data faithfully; the generator handles the consequences.
+> - Output JSON only. Output it as a downloadable JSON file.
+> 
+>
+> Screenshot attached. Copy-pasted information below:
