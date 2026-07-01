@@ -33,7 +33,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Timetable Maker</h1>
+        <h1>janik's timetable maker</h1>
         <span className="subtitle">
           {allCourses.length} courses installed · conflict-free combinations, ranked by preference
         </span>
