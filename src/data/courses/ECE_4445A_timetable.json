@@ -1,0 +1,41 @@
+{
+  "code": "ECE 4445A",
+  "name": "INTRO TO DIGITL IMAGE PROCSSNG",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9883",
+          "instructor": "H. Ladak",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "12:30",
+              "end": "13:30",
+              "location": "SEB-1200"
+            },
+            {
+              "day": "Th",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "HSB-236"
+            },
+            {
+              "day": "Fr",
+              "start": "10:30",
+              "end": "11:30",
+              "location": "HSB-236"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

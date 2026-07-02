@@ -1,0 +1,290 @@
+{
+  "code": "ECE 3375B",
+  "name": "MICROPROCESSORS & MICROCOMP",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9184",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "UCC-56"
+            },
+            {
+              "day": "We",
+              "start": "15:30",
+              "end": "16:30",
+              "location": "UCC-56"
+            }
+          ]
+        },
+        {
+          "section": "002",
+          "classNbr": "11413",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "12:30",
+              "end": "14:30",
+              "location": "SEB-1200"
+            },
+            {
+              "day": "Th",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "SEB-1200"
+            }
+          ]
+        },
+        {
+          "section": "003",
+          "classNbr": "13526",
+          "instructor": "A. Dounavis",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "09:30",
+              "end": "11:30",
+              "location": "3M-3250"
+            },
+            {
+              "day": "Fr",
+              "start": "11:30",
+              "end": "12:30",
+              "location": "HSB-236"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "004",
+          "classNbr": "9318",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "10:30",
+              "end": "13:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "9319",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "10:30",
+              "end": "13:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "10330",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "007",
+          "classNbr": "10342",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "18:30",
+              "end": "21:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "008",
+          "classNbr": "11173",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "009",
+          "classNbr": "9320",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "010",
+          "classNbr": "10607",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "11:30",
+              "end": "14:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "011",
+          "classNbr": "10640",
+          "instructor": "K. McIsaac",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "11:30",
+              "end": "14:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "012",
+          "classNbr": "11300",
+          "instructor": "A. Dounavis",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "08:30",
+              "end": "11:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "013",
+          "classNbr": "9317",
+          "instructor": "A. Dounavis",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "08:30",
+              "end": "11:30",
+              "location": ""
+            }
+          ]
+        },
+        {
+          "section": "014",
+          "classNbr": "13527",
+          "instructor": "A. Dounavis",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "11:30",
+              "location": "ACEB-2400"
+            }
+          ]
+        },
+        {
+          "section": "015",
+          "classNbr": "13528",
+          "instructor": "A. Dounavis",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "11:30",
+              "location": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

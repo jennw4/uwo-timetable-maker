@@ -1,0 +1,131 @@
+{
+  "code": "SE 4455B",
+  "name": "CLOUD COMPUTING",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "11161",
+          "instructor": "V. Platsko",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "10:30",
+              "end": "12:30",
+              "location": "FNB-3210"
+            },
+            {
+              "day": "Fr",
+              "start": "10:30",
+              "end": "11:30",
+              "location": "FNB-1250"
+            }
+          ]
+        },
+        {
+          "section": "002",
+          "classNbr": "12403",
+          "instructor": "V. Platsko",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "10:30",
+              "location": "FNB-3210"
+            },
+            {
+              "day": "Fr",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "FNB-3210"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "004",
+          "classNbr": "11251",
+          "instructor": "V. Platsko",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "10:30",
+              "end": "12:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "11762",
+          "instructor": "V. Platsko",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "11163",
+          "instructor": "V. Platsko",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        },
+        {
+          "section": "007",
+          "classNbr": "14049",
+          "instructor": "V. Platsko",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "10:30",
+              "end": "12:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

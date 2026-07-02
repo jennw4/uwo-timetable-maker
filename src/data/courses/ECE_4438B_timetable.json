@@ -1,0 +1,29 @@
+{
+  "code": "ECE 4438B",
+  "name": "ADV IMAGE PROCESSING & ANLYSIS",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9884",
+          "instructor": "F. AlMahamid",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "14:30",
+              "end": "17:30",
+              "location": "UCC-56"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

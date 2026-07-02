@@ -1,0 +1,108 @@
+{
+  "code": "MSE 3302B",
+  "name": "SENSORS & ACTUATORS",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "10367",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "ACEB-1410"
+            },
+            {
+              "day": "Th",
+              "start": "09:30",
+              "end": "10:30",
+              "location": "ACEB-1410"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "002",
+          "classNbr": "10368",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "18:00",
+              "end": "21:00",
+              "location": "ACEB-3435"
+            }
+          ]
+        },
+        {
+          "section": "003",
+          "classNbr": "10387",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "18:30",
+              "location": "ACEB-3435"
+            }
+          ]
+        },
+        {
+          "section": "004",
+          "classNbr": "10945",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "13:30",
+              "end": "16:30",
+              "location": "ACEB-3435"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "14058",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "10:30",
+              "end": "13:30",
+              "location": "ACEB-3435"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

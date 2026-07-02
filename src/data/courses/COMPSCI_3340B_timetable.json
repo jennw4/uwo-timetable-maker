@@ -1,0 +1,29 @@
+{
+  "code": "COMPSCI 3340B",
+  "name": "ANALYSIS OF ALGORITHMS I",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9073",
+          "instructor": "K. Zhang",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 1,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "10:30",
+              "end": "13:30",
+              "location": "MC-110"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "code": "COMPSCI 4451A",
+  "name": "MACHINE LEARNING FOUNDATIONS",
+  "term": "Fall",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "14245",
+          "instructor": "B. Wang",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "08:30",
+              "end": "10:30",
+              "location": "NCB-113"
+            },
+            {
+              "day": "We",
+              "start": "08:30",
+              "end": "09:30",
+              "location": "NCB-113"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

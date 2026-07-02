@@ -1,0 +1,160 @@
+{
+  "code": "MME 3380B",
+  "name": "MECHANICAL COMPONENTS DESIGN",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "9146",
+          "instructor": "J. Johnson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "SEB-2100"
+            },
+            {
+              "day": "We",
+              "start": "10:30",
+              "end": "11:30",
+              "location": "SEB-2200"
+            },
+            {
+              "day": "Fr",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "HSB-240"
+            }
+          ]
+        },
+        {
+          "section": "002",
+          "classNbr": "18200",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "HSB-236"
+            },
+            {
+              "day": "We",
+              "start": "10:30",
+              "end": "11:30",
+              "location": "HSB-35"
+            },
+            {
+              "day": "Fr",
+              "start": "14:30",
+              "end": "15:30",
+              "location": "HSB-236"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "003",
+          "classNbr": "9147",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "004",
+          "classNbr": "12388",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "14:30",
+              "end": "17:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "005",
+          "classNbr": "18201",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "18:00",
+              "end": "21:00",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "006",
+          "classNbr": "18202",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Fr",
+              "start": "15:30",
+              "end": "18:30",
+              "location": "SEB-3105"
+            }
+          ]
+        },
+        {
+          "section": "007",
+          "classNbr": "18203",
+          "instructor": "",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "18:30",
+              "end": "21:30",
+              "location": "SEB-3105"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

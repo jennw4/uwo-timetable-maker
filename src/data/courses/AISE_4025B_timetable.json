@@ -1,0 +1,74 @@
+{
+  "code": "AISE 4025B",
+  "name": "COMP. ASSIST. SURGERY",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "14493",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "We",
+              "start": "11:30",
+              "end": "12:30",
+              "location": "FNB-1250"
+            },
+            {
+              "day": "Fr",
+              "start": "11:30",
+              "end": "13:30",
+              "location": "FNB-1250"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "002",
+          "classNbr": "14494",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Th",
+              "start": "15:30",
+              "end": "17:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        },
+        {
+          "section": "003",
+          "classNbr": "14495",
+          "instructor": "E. Chen",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "14:30",
+              "end": "16:30",
+              "location": "ACEB-4440"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

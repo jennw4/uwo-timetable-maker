@@ -1,0 +1,57 @@
+{
+  "code": "ECE 3390B",
+  "name": "HARDWARE/SOFTWARE CO-DESIGN",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "10818",
+          "instructor": "R. Eagleson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "13:30",
+              "end": "15:30",
+              "location": "FNB-1270"
+            },
+            {
+              "day": "We",
+              "start": "15:30",
+              "end": "16:30",
+              "location": "ACEB-1420"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LAB",
+      "sections": [
+        {
+          "section": "002",
+          "classNbr": "10819",
+          "instructor": "R. Eagleson",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "18:30",
+              "end": "21:30",
+              "location": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

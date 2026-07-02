@@ -1,0 +1,35 @@
+{
+  "code": "AISE 4470B",
+  "name": "SEL. TOPICS IN AISE I",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "14702",
+          "instructor": "I. Polouchine",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Tu",
+              "start": "11:30",
+              "end": "13:30",
+              "location": "SEB-2100"
+            },
+            {
+              "day": "We",
+              "start": "12:30",
+              "end": "13:30",
+              "location": "FNB-1250"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

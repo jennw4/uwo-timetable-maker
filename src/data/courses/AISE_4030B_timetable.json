@@ -1,0 +1,35 @@
+{
+  "code": "AISE 4030B",
+  "name": "REINFORCEMENT LEARNING",
+  "term": "Winter",
+  "components": [
+    {
+      "type": "LEC",
+      "sections": [
+        {
+          "section": "001",
+          "classNbr": "14496",
+          "instructor": "F. AlMahamid",
+          "campus": "Main",
+          "deliveryType": "In Person",
+          "status": "Not Full",
+          "waitlist": 0,
+          "meetings": [
+            {
+              "day": "Mo",
+              "start": "09:30",
+              "end": "11:30",
+              "location": "FNB-1250"
+            },
+            {
+              "day": "We",
+              "start": "09:30",
+              "end": "10:30",
+              "location": "FNB-1250"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
